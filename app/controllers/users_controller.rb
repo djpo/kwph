@@ -1,4 +1,5 @@
 class UsersController < ApplicationController
+  before_action :is_authenticated?
   def show
   	@user = User.find params[:id]
   end
