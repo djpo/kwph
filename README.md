@@ -21,6 +21,9 @@ Parse's secret sauce is comprised of many different technologies and resources:
 - *malihu custom scrollbar plugin* 
 - *flag-icon-css*
 
+### Wireframes
+[image]:http://s7.postimg.org/e9u2nnh2y/kwph_1.jpg
+[image]:http://s7.postimg.org/4dszo0bay/kwph_wireframe_2.jpg
 
 ### Installation
 
